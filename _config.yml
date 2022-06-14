@@ -19,11 +19,11 @@ minimal_mistakes_skin    : "dirt" #"default" #"aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "About Leonard Schummer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Leonard Schummer"
+description              : ""
 url                      : "https://leonardschummer1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leonardschummer1/leonardschummer1.github.io"
