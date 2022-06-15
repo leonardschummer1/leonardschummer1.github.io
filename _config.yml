@@ -27,10 +27,9 @@ description              : ""
 url                      : "https://leonardschummer1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leonardschummer1/leonardschummer1.github.io"
-teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
+teaser                   : #"/assets/images/500x300.png"
+logo                     : #"/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-og_image                 : /assets/images/websitepic.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Leonard Schummer"
+  avatar           : "/assets/images/websitepic.jpg"
+  bio              : "Materials Engineering Student at UCLA"
+  location         : "Los Angeles, California"
   email            :
   links:
     - label: "Email"
